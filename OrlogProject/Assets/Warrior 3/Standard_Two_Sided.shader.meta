@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d20814aab0508204e9d43b1553b9cc33
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 180877
+  packageName: Warrior 3
+  packageVersion: 1.0
+  assetPath: Assets/Warrior 3/Standard_Two_Sided.shader
+  uploadId: 395835
