@@ -1,0 +1,16 @@
+Pack contains 100 assorted, white emblems, which could be used for countries, factions, organizations or UI icons.
+
+Includes a mix of both science fiction and fantasy style art. Inspired by anatomy, geometry, nature, space, pop culture and ancient cultures!
+
+---  EMBLEM SIZE 200 X 200 pixels (72dpi)  ---
+- 10 rows of 10 icons, grouped by style and theme.
+- All 100% white emblems, so colors may be added, in-engine.
+- Vector .svg copies included, so artwork can be used at any scale.
+- PSD and .ai file included, so you can make changes to the art work to suit your needs!
+
+Please rate and comment, if you like my work and have found a use for it in your project!
+I encourage feedback and tips for assets to make in the future!
+
+Please feel free to reach out to me at: kubashvisualdesign@protonmail.com
+
+ui, user interface, icon, emblem, logo, badge, gui, fantasy, scifi

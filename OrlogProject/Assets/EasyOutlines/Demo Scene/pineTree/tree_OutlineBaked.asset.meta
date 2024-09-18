@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 36192867a08f2d049be6aa052608d926
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 215947
+  packageName: Easy Outline Shader
+  packageVersion: 2.2.1
+  assetPath: Assets/EasyOutlines/Demo Scene/pineTree/tree_OutlineBaked.asset
+  uploadId: 603376

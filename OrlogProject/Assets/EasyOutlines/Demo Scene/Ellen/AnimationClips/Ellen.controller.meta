@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f966efcff19263f47b7df5996c298b4f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 215947
+  packageName: Easy Outline Shader
+  packageVersion: 2.2.1
+  assetPath: Assets/EasyOutlines/Demo Scene/Ellen/AnimationClips/Ellen.controller
+  uploadId: 603376

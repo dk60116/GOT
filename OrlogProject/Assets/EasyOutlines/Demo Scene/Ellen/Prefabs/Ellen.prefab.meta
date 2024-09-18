@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1c443c3abb862244aa6185fe28d5f5bb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 215947
+  packageName: Easy Outline Shader
+  packageVersion: 2.2.1
+  assetPath: Assets/EasyOutlines/Demo Scene/Ellen/Prefabs/Ellen.prefab
+  uploadId: 603376
