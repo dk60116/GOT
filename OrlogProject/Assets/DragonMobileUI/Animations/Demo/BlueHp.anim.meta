@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1cf7be47dc958b54989f08c5295acfcb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Animations/Demo/BlueHp.anim
+  uploadId: 300055

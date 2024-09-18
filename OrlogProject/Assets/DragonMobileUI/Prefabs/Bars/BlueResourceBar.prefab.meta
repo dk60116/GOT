@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1fcbc3db1470c0b42b7ea943db3d7186
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Bars/BlueResourceBar.prefab
+  uploadId: 300055

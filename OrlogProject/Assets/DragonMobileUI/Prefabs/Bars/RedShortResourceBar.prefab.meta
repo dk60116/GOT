@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1ec631c20457fa6449a20fb39200cfb9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Bars/RedShortResourceBar.prefab
+  uploadId: 300055

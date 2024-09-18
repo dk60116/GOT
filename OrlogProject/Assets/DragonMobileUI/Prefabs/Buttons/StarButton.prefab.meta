@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 62e31f4baa4276d43898995f2aeda6e6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Buttons/StarButton.prefab
+  uploadId: 300055

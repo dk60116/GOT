@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 49bd81cd0d6fa85489b8486fa897159e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Controls/Joystick/StaticJoystick.prefab
+  uploadId: 300055

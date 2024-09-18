@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6f65b3017b2ef6d4fb138c2828d195a6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Buttons/Toggle.prefab
+  uploadId: 300055

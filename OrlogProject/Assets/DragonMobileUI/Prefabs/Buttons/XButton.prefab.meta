@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 25617d3228d4fa344b8fb7fcd1002e90
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Buttons/XButton.prefab
+  uploadId: 300055

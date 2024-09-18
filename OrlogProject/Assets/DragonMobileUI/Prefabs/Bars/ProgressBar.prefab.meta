@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e5de832cb67c6774cab323f6d67d4fa1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Bars/ProgressBar.prefab
+  uploadId: 300055

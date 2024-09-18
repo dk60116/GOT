@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6a67af986a7194648b76d53a991775dd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Buttons/InfoButton.prefab
+  uploadId: 300055

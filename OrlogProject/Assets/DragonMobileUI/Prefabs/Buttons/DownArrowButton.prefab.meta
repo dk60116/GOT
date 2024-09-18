@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 084a4afbf8856384cafbf47bc9743c68
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Buttons/DownArrowButton.prefab
+  uploadId: 300055

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a1198d628fa1e794ba3b42e98e9be1cc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Buttons/VeryWideLightButton.prefab
+  uploadId: 300055

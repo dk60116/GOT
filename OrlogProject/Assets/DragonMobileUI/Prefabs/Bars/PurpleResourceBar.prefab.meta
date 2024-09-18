@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5b9417a8e0df5b4489fa8b5abaa55ca5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Bars/PurpleResourceBar.prefab
+  uploadId: 300055

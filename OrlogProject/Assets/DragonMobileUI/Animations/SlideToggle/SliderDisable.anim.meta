@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: acb9c9651d61e014b8bc1a175210460f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Animations/SlideToggle/SliderDisable.anim
+  uploadId: 300055

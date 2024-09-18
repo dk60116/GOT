@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8bc9014e8a42131428ea3529e7713111
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Buttons/RightArrowButton.prefab
+  uploadId: 300055

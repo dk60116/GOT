@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ebf765df7317a374f99ecc82517d26ce
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Buttons/PlusButton.prefab
+  uploadId: 300055

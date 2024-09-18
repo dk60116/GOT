@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e0cbced34a10e164590d85427bd16770
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Controls/HorizontalSlidePanel.prefab
+  uploadId: 300055

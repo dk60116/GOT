@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6725dd8597aa0574db8b3aca4f7e80b1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Controls/SlideToggle.prefab
+  uploadId: 300055

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c46091ae298069343be451a5c7b71bdd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Buttons/BigPlayButton.prefab
+  uploadId: 300055

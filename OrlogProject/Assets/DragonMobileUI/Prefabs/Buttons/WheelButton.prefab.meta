@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 241b6ae2772f7af4db72ee4e4f5e5a4c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Buttons/WheelButton.prefab
+  uploadId: 300055

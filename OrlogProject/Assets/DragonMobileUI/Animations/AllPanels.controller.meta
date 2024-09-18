@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd2ce1e851c06e349ace5799fe1c9264
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Animations/AllPanels.controller
+  uploadId: 300055

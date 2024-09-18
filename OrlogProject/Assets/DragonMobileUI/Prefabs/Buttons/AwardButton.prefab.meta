@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b8f85169584e29044a41fc1dd8ce9f84
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Buttons/AwardButton.prefab
+  uploadId: 300055

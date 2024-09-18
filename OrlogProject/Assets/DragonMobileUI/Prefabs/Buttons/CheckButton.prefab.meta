@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fccae2ca6420ff148a8a933790922abf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Buttons/CheckButton.prefab
+  uploadId: 300055

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9da9ab1352681304483638073d6e736b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Buttons/ShopButton.prefab
+  uploadId: 300055

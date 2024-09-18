@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56f418dea6bdd5e4aae763edf2f41a4a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Animations/LogoLight.controller
+  uploadId: 300055

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 07ee9399dfbf6f440b8419b5fa929af9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Scripts/ToggleSlider.cs
+  uploadId: 300055

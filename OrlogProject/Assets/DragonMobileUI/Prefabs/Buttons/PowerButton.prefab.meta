@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b9c424a6470a60a48bc177e93a5f05e2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Buttons/PowerButton.prefab
+  uploadId: 300055

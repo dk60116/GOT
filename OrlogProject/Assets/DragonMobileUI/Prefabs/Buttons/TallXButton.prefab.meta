@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 68936935e751d60428b13a1b461e3181
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/Buttons/TallXButton.prefab
+  uploadId: 300055

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f619e447c67a8514ca405a2df4115ffa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141915
+  packageName: Dragon Mobile UI
+  packageVersion: 1.0
+  assetPath: Assets/DragonMobileUI/Prefabs/FrameWithCaption.prefab
+  uploadId: 300055
