@@ -1,0 +1,7 @@
+Version 1.1:
+- All scripts are under DuloGames namespace now.
+- Updated scripts to prevent some warning messages.
+- Added Sprite Atlases.
+
+Version 1.0:
+- Initial release.
