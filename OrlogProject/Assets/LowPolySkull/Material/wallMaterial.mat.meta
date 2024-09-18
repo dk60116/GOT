@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 61f87bbed507c2c429fc6b0be3c2a8e3
+timeCreated: 1518909166
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111786
+  packageName: Low-Poly Skull
+  packageVersion: 1.0
+  assetPath: Assets/LowPolySkull/Material/wallMaterial.mat
+  uploadId: 230500

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f9f171081f99e1a40a73f0800efec194
+timeCreated: 1518908856
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 111786
+  packageName: Low-Poly Skull
+  packageVersion: 1.0
+  assetPath: Assets/LowPolySkull/Animation/Cube+Skull.controller
+  uploadId: 230500
