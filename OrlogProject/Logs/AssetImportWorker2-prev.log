@@ -1,0 +1,1037 @@
+Using pre-set license
+Built from 'trunk' branch; Version is '6000.0.12f1 (7defd84cdab8) revision 8253400'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'ko' Physical Memory: 16076 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.12f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/dk601/OrlogProject
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+58421
+-job-worker-count
+9
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/Users/dk601/OrlogProject
+C:/Users/dk601/OrlogProject
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [138432]  Target information:
+
+Player connection [138432]  * "[IP] 192.168.0.37 [Port] 0 [Flags] 2 [Guid] 844972572 [EditorId] 844972572 [Version] 1048832 [Id] WindowsEditor(7,HTK) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [138432] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [138432] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 9
+Library Redirect Path: Library/
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+Refreshing native plugins compatible for Editor in 4.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.12f1 (7defd84cdab8)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/dk601/OrlogProject/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Ti Laptop GPU (ID=0x25a0)
+    Vendor:   NVIDIA
+    VRAM:     3977 MB
+    Driver:   31.0.15.4680
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.12f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56288
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.12f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.006918 seconds.
+- Loaded All Assemblies, in  0.730 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 287 ms
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.946 seconds
+Domain Reload Profiling: 1670ms
+	BeginReloadAssembly (279ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (59ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (72ms)
+	LoadAllAssembliesAndSetupDomain (292ms)
+		LoadAssemblies (276ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (285ms)
+			TypeCache.Refresh (283ms)
+				TypeCache.ScanAssembly (265ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (946ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (890ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (455ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (8ms)
+			ProcessInitializeOnLoadAttributes (170ms)
+			ProcessInitializeOnLoadMethodAttributes (253ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.541 seconds
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+The project currently uses the compatibility mode where the Render Graph API is disabled. Support for this mode will be removed in future Unity versions. Migrate existing ScriptableRenderPasses to the new RenderGraph API. After the migration, disable the compatibility mode in Edit > Projects Settings > Graphics > Render Graph.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEngine.Rendering.Universal.WarnUsingNonRenderGraph:EmitConsoleWarning () (at ./Library/PackageCache/com.unity.render-pipelines.universal/Runtime/Data/UniversalRenderPipelineAsset.cs:427)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.unity.render-pipelines.universal/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 427)
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.883 seconds
+Domain Reload Profiling: 2418ms
+	BeginReloadAssembly (905ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (33ms)
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (43ms)
+	LoadAllAssembliesAndSetupDomain (536ms)
+		LoadAssemblies (418ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (239ms)
+			TypeCache.Refresh (182ms)
+				TypeCache.ScanAssembly (164ms)
+			BuildScriptInfoCaches (44ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (884ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (571ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (47ms)
+			ProcessInitializeOnLoadAttributes (296ms)
+			ProcessInitializeOnLoadMethodAttributes (199ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 338 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4305 unused Assets / (6.0 MB). Loaded Objects now: 5174.
+Memory consumption went from 220.9 MB to 215.0 MB.
+Total: 17.223100 ms (FindLiveObjects: 1.051500 ms CreateObjectMapping: 0.892900 ms MarkObjects: 11.236300 ms  DeleteObjects: 4.038100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1158444.148850 seconds.
+  path: Assets/Materials/GodCardBody.mat
+  artifactKey: Guid(0010fb79c77db8c458c716fb8aa98308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/GodCardBody.mat using Guid(0010fb79c77db8c458c716fb8aa98308) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '24e8f772bcb8c194caa597d188f9ce3d') in 0.3916306 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.599616 seconds.
+  path: Assets/Materials/GodCardBody.mat
+  artifactKey: Guid(0010fb79c77db8c458c716fb8aa98308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/GodCardBody.mat using Guid(0010fb79c77db8c458c716fb8aa98308) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '05a27fe1cc59290a6094ce1b47ab1cd9') in 0.0132952 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.571283 seconds.
+  path: Assets/Materials/GodCardBody.mat
+  artifactKey: Guid(0010fb79c77db8c458c716fb8aa98308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/GodCardBody.mat using Guid(0010fb79c77db8c458c716fb8aa98308) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '5461d984eb5d320fc550264db353b836') in 0.0140271 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 84.025503 seconds.
+  path: Assets/Prefab/Game/Dice/Player Set.prefab
+  artifactKey: Guid(4b55222347bd1ce47843184e4c114c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/Player Set.prefab using Guid(4b55222347bd1ce47843184e4c114c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '532b2dcf8d718401df29f68e8bf4b173') in 0.0901397 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1352
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.545452 seconds.
+  path: Assets/Prefab/Game/Dice/Player Set.prefab
+  artifactKey: Guid(4b55222347bd1ce47843184e4c114c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/Player Set.prefab using Guid(4b55222347bd1ce47843184e4c114c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'b62df3f2a57eef9c83b518f487daf88e') in 0.0696456 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1352
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.286527 seconds.
+  path: Assets/Prefab/Game/Dice/Player Set.prefab
+  artifactKey: Guid(4b55222347bd1ce47843184e4c114c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/Player Set.prefab using Guid(4b55222347bd1ce47843184e4c114c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '65a3f5b55444ca2c19c6158b836e6b15') in 0.0560194 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1352
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.400309 seconds.
+  path: Assets/Prefab/Game/Dice/Player Set.prefab
+  artifactKey: Guid(4b55222347bd1ce47843184e4c114c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/Player Set.prefab using Guid(4b55222347bd1ce47843184e4c114c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '1d259e5fdb46fafe9ecffe97bce3a281') in 0.0686692 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1352
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.594311 seconds.
+  path: Assets/Prefab/Game/Dice/Player Set.prefab
+  artifactKey: Guid(4b55222347bd1ce47843184e4c114c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/Player Set.prefab using Guid(4b55222347bd1ce47843184e4c114c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'ed4134139f337b3b8689079c3b3e176e') in 0.0598857 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1352
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.768877 seconds.
+  path: Assets/Prefab/Game/Dice/God/God Card.prefab
+  artifactKey: Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/God/God Card.prefab using Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'd1b60c3796ae1bfdfba5f3cad4e1db4a') in 0.0236922 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.966333 seconds.
+  path: Assets/Prefab/Game/Dice/God/God Card.prefab
+  artifactKey: Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/God/God Card.prefab using Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '172751ce48a276dd461c6a8d3c02ac38') in 0.0163838 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.290274 seconds.
+  path: Assets/Prefab/Game/Dice/God/God Card.prefab
+  artifactKey: Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/God/God Card.prefab using Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '75afbd399062e6ea2542df53ef516ae5') in 0.0231753 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.233088 seconds.
+  path: Assets/Prefab/Game/Dice/God/God Card.prefab
+  artifactKey: Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/God/God Card.prefab using Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '21fd48b76bd9b433656e66429e4a7cb3') in 0.0269825 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.917240 seconds.
+  path: Assets/Prefab/Game/Dice/God/God Card.prefab
+  artifactKey: Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/God/God Card.prefab using Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '0107511a5057d7dafd460d258b4826e9') in 0.0180775 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.677422 seconds.
+  path: Assets/Prefab/Game/Dice/God/God Card.prefab
+  artifactKey: Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/God/God Card.prefab using Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'c0fa9aea3d87037da8815cef3b2d49db') in 0.0251669 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.148494 seconds.
+  path: Assets/Prefab/Game/Dice/God/God Card.prefab
+  artifactKey: Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/God/God Card.prefab using Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '7bec999fcb4c7229bb17c1b05a9b1657') in 0.0182365 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.414801 seconds.
+  path: Assets/Prefab/Game/Dice/Player Set.prefab
+  artifactKey: Guid(4b55222347bd1ce47843184e4c114c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/Player Set.prefab using Guid(4b55222347bd1ce47843184e4c114c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '179044b150a85ca54dbd434e75fe014c') in 0.0491154 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1352
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.702425 seconds.
+  path: Assets/Prefab/Game/Dice/God/God Card.prefab
+  artifactKey: Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/God/God Card.prefab using Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '40cf2faac5f28660a5dfc462412a7e9e') in 0.0116407 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.550921 seconds.
+  path: Assets/Prefab/Game/Dice/God/God Card.prefab
+  artifactKey: Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/God/God Card.prefab using Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '67ac89f21e63fc415f4ff3530cac8605') in 0.0164137 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.361663 seconds.
+  path: Assets/Prefab/Game/Dice/God/God Card.prefab
+  artifactKey: Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/God/God Card.prefab using Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '715a0b29bd04799ed2dce2f652045c2c') in 0.0192874 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.961393 seconds.
+  path: Assets/Prefab/Game/Dice/God/God Card.prefab
+  artifactKey: Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/God/God Card.prefab using Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'a25bbf8d17519b4d9233d5938e7c0c91') in 0.0166138 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.988856 seconds.
+  path: Assets/Prefab/Game/Dice/God/God Card.prefab
+  artifactKey: Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/God/God Card.prefab using Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '8cf2cb72c85e19ab3e24ea4ad18b2282') in 0.0110652 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.020889 seconds.
+  path: Assets/Prefab/Game/Dice/God/God Card.prefab
+  artifactKey: Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/God/God Card.prefab using Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'e26be1910dc6834b9c436e0b83c1fef8') in 0.0135811 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.796285 seconds.
+  path: Assets/Prefab/Game/Dice/God/God Card.prefab
+  artifactKey: Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/God/God Card.prefab using Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'b0422ffc482abe8bb1c882758f8f18ad') in 0.0157511 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.602947 seconds.
+  path: Assets/Prefab/Game/Dice/Player Set.prefab
+  artifactKey: Guid(4b55222347bd1ce47843184e4c114c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/Player Set.prefab using Guid(4b55222347bd1ce47843184e4c114c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'b0df1def5b3fef3a7c293ee4ba4dbe93') in 0.0550496 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1356
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.764234 seconds.
+  path: Assets/Prefab/Game/Dice/Player Set.prefab
+  artifactKey: Guid(4b55222347bd1ce47843184e4c114c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/Player Set.prefab using Guid(4b55222347bd1ce47843184e4c114c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '61db5ed20d779cac5dafbe3c7a487263') in 0.0558753 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1356
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4300 unused Assets / (6.0 MB). Loaded Objects now: 5357.
+Memory consumption went from 167.2 MB to 161.3 MB.
+Total: 17.048000 ms (FindLiveObjects: 1.304400 ms CreateObjectMapping: 0.620400 ms MarkObjects: 11.664200 ms  DeleteObjects: 3.456800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.700 seconds
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+The project currently uses the compatibility mode where the Render Graph API is disabled. Support for this mode will be removed in future Unity versions. Migrate existing ScriptableRenderPasses to the new RenderGraph API. After the migration, disable the compatibility mode in Edit > Projects Settings > Graphics > Render Graph.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEngine.Rendering.Universal.WarnUsingNonRenderGraph:EmitConsoleWarning () (at ./Library/PackageCache/com.unity.render-pipelines.universal/Runtime/Data/UniversalRenderPipelineAsset.cs:427)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.unity.render-pipelines.universal/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 427)
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.865 seconds
+Domain Reload Profiling: 1563ms
+	BeginReloadAssembly (215ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (59ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (403ms)
+		LoadAssemblies (347ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (157ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (2ms)
+			BuildScriptInfoCaches (132ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (866ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (558ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (19ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (51ms)
+			ProcessInitializeOnLoadAttributes (294ms)
+			ProcessInitializeOnLoadMethodAttributes (183ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 35 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4303 unused Assets / (6.0 MB). Loaded Objects now: 5247.
+Memory consumption went from 176.8 MB to 170.8 MB.
+Total: 7.517000 ms (FindLiveObjects: 0.431000 ms CreateObjectMapping: 0.337600 ms MarkObjects: 4.803600 ms  DeleteObjects: 1.943700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.676 seconds
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+The project currently uses the compatibility mode where the Render Graph API is disabled. Support for this mode will be removed in future Unity versions. Migrate existing ScriptableRenderPasses to the new RenderGraph API. After the migration, disable the compatibility mode in Edit > Projects Settings > Graphics > Render Graph.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEngine.Rendering.Universal.WarnUsingNonRenderGraph:EmitConsoleWarning () (at ./Library/PackageCache/com.unity.render-pipelines.universal/Runtime/Data/UniversalRenderPipelineAsset.cs:427)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.unity.render-pipelines.universal/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 427)
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.767 seconds
+Domain Reload Profiling: 1440ms
+	BeginReloadAssembly (191ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (44ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (408ms)
+		LoadAssemblies (380ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (129ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (112ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (767ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (505ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (41ms)
+			ProcessInitializeOnLoadAttributes (261ms)
+			ProcessInitializeOnLoadMethodAttributes (176ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4303 unused Assets / (5.8 MB). Loaded Objects now: 5249.
+Memory consumption went from 175.3 MB to 169.5 MB.
+Total: 8.457300 ms (FindLiveObjects: 0.431100 ms CreateObjectMapping: 0.360800 ms MarkObjects: 5.677400 ms  DeleteObjects: 1.986200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 9078.595833 seconds.
+  path: Assets/UI/God
+  artifactKey: Guid(0614d61db193bb649b36007d675ff907) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God using Guid(0614d61db193bb649b36007d675ff907) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '46bf6229cf67240a781398412db5b5f7') in 0.4348904 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.466189 seconds.
+  path: Assets/UI/God/Card
+  artifactKey: Guid(1c1c04873a989904e8983d649edf5e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card using Guid(1c1c04873a989904e8983d649edf5e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '7edd31d0cd2a3605329795cce7392541') in 0.0009197 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.856087 seconds.
+  path: Assets/UI/God/Icon
+  artifactKey: Guid(55cbe4d82a7d1e84c9590235de63bf02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Icon using Guid(55cbe4d82a7d1e84c9590235de63bf02) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '7ec84634b80372e997b2075619ab0d4c') in 0.0006588 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.437528 seconds.
+  path: Assets/UI/God/Card/fceb52bac37c81f470b63883aa49c218.jpg
+  artifactKey: Guid(81e084a5d683251478c286464976c3d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/fceb52bac37c81f470b63883aa49c218.jpg using Guid(81e084a5d683251478c286464976c3d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '4d0a0fa3ea80419393d677da5db77748') in 0.1063586 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 118.141327 seconds.
+  path: Assets/UI/God/Card/56136560-3006-4ad1-b25d-4dcceef673df (1).png
+  artifactKey: Guid(2b0f7bb3be402164bb52e35a40068327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/56136560-3006-4ad1-b25d-4dcceef673df (1).png using Guid(2b0f7bb3be402164bb52e35a40068327) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '96a441330d5ff9762d6b67c846ab9076') in 0.0173075 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.415541 seconds.
+  path: Assets/UI/God/Card/Zeus_Logo.png
+  artifactKey: Guid(2b0f7bb3be402164bb52e35a40068327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Zeus_Logo.png using Guid(2b0f7bb3be402164bb52e35a40068327) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '70bc04e6a47fe4e37f15f8a81cbdba15') in 0.0207964 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.371105 seconds.
+  path: Assets/UI/God/Card/Zeus_Logo.png
+  artifactKey: Guid(2b0f7bb3be402164bb52e35a40068327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Zeus_Logo.png using Guid(2b0f7bb3be402164bb52e35a40068327) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '091df10975475d839fe3df6043f4d4b5') in 0.015018 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.104009 seconds.
+  path: Assets/Card_Shirts_Lite/PNG/Card_shirt_01 1.png
+  artifactKey: Guid(f28b72c27d602f0488977fed2f33cbb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Card_Shirts_Lite/PNG/Card_shirt_01 1.png using Guid(f28b72c27d602f0488977fed2f33cbb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '1a01b422a830067a9cf6fcaa80c7480a') in 0.1036469 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.972016 seconds.
+  path: Assets/UI/God/Icon/Card_shirt_01 1.png
+  artifactKey: Guid(f28b72c27d602f0488977fed2f33cbb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Icon/Card_shirt_01 1.png using Guid(f28b72c27d602f0488977fed2f33cbb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '191a3d6876d9fb81bf3d01eddb60c968') in 0.0339588 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 390.143500 seconds.
+  path: Assets/UI/God/Icon/Card_shirt_01 1.png
+  artifactKey: Guid(f28b72c27d602f0488977fed2f33cbb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Icon/Card_shirt_01 1.png using Guid(f28b72c27d602f0488977fed2f33cbb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '00d8d0e34679a8226aa7184ca2ba4e1f') in 0.0436302 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 533.693569 seconds.
+  path: Assets/Card_Shirts_Lite/PNG/Card_shirt_01 1.png
+  artifactKey: Guid(5553b3ae3da371a4ab3f391307521e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Card_Shirts_Lite/PNG/Card_shirt_01 1.png using Guid(5553b3ae3da371a4ab3f391307521e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '1109f32fa8c3d36b9333eb2994b9117a') in 0.0477968 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 237.644357 seconds.
+  path: Assets/UI/God/Card/Card_shirt_01 1.png
+  artifactKey: Guid(5553b3ae3da371a4ab3f391307521e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Card_shirt_01 1.png using Guid(5553b3ae3da371a4ab3f391307521e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'f14a37ba7f44cf8892897ab74db44e8b') in 0.0883674 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 514.278595 seconds.
+  path: Assets/Prefab/Game/Dice/God/God Card.prefab
+  artifactKey: Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/God/God Card.prefab using Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'd7e3ea09ed08953b9e7a5b346949ce7e') in 1.0517034 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.490130 seconds.
+  path: Assets/Prefab/Game/Dice/God/God Card.prefab
+  artifactKey: Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/God/God Card.prefab using Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '705de29f80717a635d21dea5f74d6c76') in 0.0323878 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.999005 seconds.
+  path: Assets/Prefab/Game/Dice/God/God Card.prefab
+  artifactKey: Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/God/God Card.prefab using Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'cfa863b1d6b72a5c377c503677336b10') in 0.0281148 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.365968 seconds.
+  path: Assets/Prefab/Game/Dice/God/God Card.prefab
+  artifactKey: Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Game/Dice/God/God Card.prefab using Guid(cc019f85fee6fab408e21522bcc0f643) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'f2bc25397b8bdaa84a20f371b4ffffab') in 0.0296016 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 566.280448 seconds.
+  path: Assets/UI/God/Card/Card_shirt_01 1.png
+  artifactKey: Guid(5553b3ae3da371a4ab3f391307521e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Card_shirt_01 1.png using Guid(5553b3ae3da371a4ab3f391307521e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '306adaa8890dd4cc1d7a4c7bc4c2e948') in 0.0335772 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.334571 seconds.
+  path: Assets/UI/God/Card/Zeus.png
+  artifactKey: Guid(5553b3ae3da371a4ab3f391307521e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Zeus.png using Guid(5553b3ae3da371a4ab3f391307521e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'd7839bdbd60b6747f492b6ab592fa3f7') in 0.0241105 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.618705 seconds.
+  path: Assets/UI/God/Card/Zeus 1.png
+  artifactKey: Guid(2176a6a9460610b4b9a0680182a325af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Zeus 1.png using Guid(2176a6a9460610b4b9a0680182a325af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '381c69affddd6bb21c58bf55bd49e7b1') in 0.0415628 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.722797 seconds.
+  path: Assets/UI/God/Card/Zeus 1.png
+  artifactKey: Guid(2176a6a9460610b4b9a0680182a325af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Zeus 1.png using Guid(2176a6a9460610b4b9a0680182a325af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'f4c7f8ee8aaeabdb2019a4a95897a427') in 0.0547223 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.276634 seconds.
+  path: Assets/UI/God/Card/Posaidon.png
+  artifactKey: Guid(2176a6a9460610b4b9a0680182a325af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Posaidon.png using Guid(2176a6a9460610b4b9a0680182a325af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'b2cab95e02a1f37f940c1b2bd73f5688') in 0.0249035 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 236.915694 seconds.
+  path: Assets/UI/God/Card/Zeus 1.png
+  artifactKey: Guid(928327f8b7dd1ff419a47bb5616ec684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Zeus 1.png using Guid(928327f8b7dd1ff419a47bb5616ec684) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'f683eca0d0c28dff7cc8854292a427c1') in 0.0275457 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.556246 seconds.
+  path: Assets/UI/God/Card/Zeus 1.png
+  artifactKey: Guid(928327f8b7dd1ff419a47bb5616ec684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Zeus 1.png using Guid(928327f8b7dd1ff419a47bb5616ec684) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '67685b08c2ea3d3ce2b7384f6afb76c2') in 0.0234058 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.931957 seconds.
+  path: Assets/UI/God/Card/Posaidon.png
+  artifactKey: Guid(2176a6a9460610b4b9a0680182a325af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Posaidon.png using Guid(2176a6a9460610b4b9a0680182a325af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '41710d11b2e4ba2fa6a6b4b855350e0c') in 0.0667031 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.488884 seconds.
+  path: Assets/Fonts/HeirofLightBold SDF.asset
+  artifactKey: Guid(a506e86d559c4724cadab93d978cad57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/HeirofLightBold SDF.asset using Guid(a506e86d559c4724cadab93d978cad57) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '611ca48937c6edcb2eec7b803d5d8352') in 0.5031112 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.174769 seconds.
+  path: Assets/Materials/GodCardBody.mat
+  artifactKey: Guid(0010fb79c77db8c458c716fb8aa98308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/GodCardBody.mat using Guid(0010fb79c77db8c458c716fb8aa98308) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '0384b28796eecfcdf677e56b42553cd9') in 0.029216 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.228447 seconds.
+  path: Assets/UI/God/Card/Posaidon.png
+  artifactKey: Guid(2176a6a9460610b4b9a0680182a325af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Posaidon.png using Guid(2176a6a9460610b4b9a0680182a325af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'c932b8afedfb4b2aafc84fd18ae1f200') in 0.0289016 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.924336 seconds.
+  path: Assets/UI/God/Card/Posaidon 1.png
+  artifactKey: Guid(1f0746ea79256114fb81c144795b9f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Posaidon 1.png using Guid(1f0746ea79256114fb81c144795b9f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '2b258495f4674ee28f8708870ceb8015') in 0.0286696 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 343.207247 seconds.
+  path: Assets/UI/God/Card/Zeus.png
+  artifactKey: Guid(5553b3ae3da371a4ab3f391307521e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Zeus.png using Guid(5553b3ae3da371a4ab3f391307521e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'fb74f5f376e050ca2422772599154f6b') in 0.0855051 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1157.452200 seconds.
+  path: Assets/UI/God/Card/Zeus.png
+  artifactKey: Guid(5553b3ae3da371a4ab3f391307521e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Zeus.png using Guid(5553b3ae3da371a4ab3f391307521e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'efe0c8c623cdd611f04896b65d5fc382') in 0.0452059 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 193.629611 seconds.
+  path: Assets/UI/God/Card/Posaidon 1.png
+  artifactKey: Guid(1f0746ea79256114fb81c144795b9f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Posaidon 1.png using Guid(1f0746ea79256114fb81c144795b9f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '293d98346e7855ed899701390030ce21') in 0.0491068 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.482837 seconds.
+  path: Assets/UI/God/Card/Hera.png
+  artifactKey: Guid(1f0746ea79256114fb81c144795b9f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Hera.png using Guid(1f0746ea79256114fb81c144795b9f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '50d17b28ff22c7af4f8d51f4c81aa3d1') in 0.0272736 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.021837 seconds.
+  path: Assets/UI/God/Card/Zeus 1.png
+  artifactKey: Guid(aa4846f90162b644c8d964d1da562076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Zeus 1.png using Guid(aa4846f90162b644c8d964d1da562076) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '261e0620bd0942189cab97433cc329ac') in 0.042185 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 129.289688 seconds.
+  path: Assets/UI/God/Card/Zeus 1.png
+  artifactKey: Guid(aa4846f90162b644c8d964d1da562076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Zeus 1.png using Guid(aa4846f90162b644c8d964d1da562076) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'ea606bea67b18058f129fa54cb76546a') in 0.0444964 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.044270 seconds.
+  path: Assets/UI/God/Card/Hades.png
+  artifactKey: Guid(aa4846f90162b644c8d964d1da562076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Hades.png using Guid(aa4846f90162b644c8d964d1da562076) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '3869d1b94479f6aee9c397969e883c01') in 0.0417659 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 152.567184 seconds.
+  path: Assets/UI/God/Card/Poseidon.png
+  artifactKey: Guid(2176a6a9460610b4b9a0680182a325af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Poseidon.png using Guid(2176a6a9460610b4b9a0680182a325af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'c0995fe3da230b1816df05ae3cfbd1e4') in 0.0527519 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.471038 seconds.
+  path: Assets/UI/God/Card/Zeus 1.png
+  artifactKey: Guid(f194b14a7d640454eb0d00a16ea26865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Zeus 1.png using Guid(f194b14a7d640454eb0d00a16ea26865) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '691506869836380d3489874b598c22eb') in 0.0331605 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.058106 seconds.
+  path: Assets/UI/God/Card/Dionisos.png
+  artifactKey: Guid(f194b14a7d640454eb0d00a16ea26865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Dionisos.png using Guid(f194b14a7d640454eb0d00a16ea26865) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: 'ab1b61c6a7211676cf7338571c91067f') in 0.0314031 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 185.027341 seconds.
+  path: Assets/UI/God/Card/Zeus 1.png
+  artifactKey: Guid(8c0c6572b5713e74cabaa415ecd95581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/God/Card/Zeus 1.png using Guid(8c0c6572b5713e74cabaa415ecd95581) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 10 workers.
+ -> (artifact id: '5f8bf8e6c6610c77d4a1077d485850bc') in 0.0573885 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in 11.950 seconds
+Refreshing native plugins compatible for Editor in 1.15 ms, found 2 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+The project currently uses the compatibility mode where the Render Graph API is disabled. Support for this mode will be removed in future Unity versions. Migrate existing ScriptableRenderPasses to the new RenderGraph API. After the migration, disable the compatibility mode in Edit > Projects Settings > Graphics > Render Graph.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEngine.Rendering.Universal.WarnUsingNonRenderGraph:EmitConsoleWarning () (at ./Library/PackageCache/com.unity.render-pipelines.universal/Runtime/Data/UniversalRenderPipelineAsset.cs:427)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: ./Library/PackageCache/com.unity.render-pipelines.universal/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 427)
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.735 seconds
+Domain Reload Profiling: 14692ms
+	BeginReloadAssembly (1517ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (243ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (2ms)
+		CreateAndSetChildDomain (537ms)
+	RebuildCommonClasses (211ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (52ms)
+	LoadAllAssembliesAndSetupDomain (10159ms)
+		LoadAssemblies (10001ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (618ms)
+			TypeCache.Refresh (30ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (537ms)
+			ResolveRequiredComponents (36ms)
+	FinalizeReload (2737ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1666ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (58ms)
+			SetLoadedEditorAssemblies (17ms)
+			BeforeProcessingInitializeOnLoad (147ms)
+			ProcessInitializeOnLoadAttributes (866ms)
+			ProcessInitializeOnLoadMethodAttributes (562ms)
+			AfterProcessingInitializeOnLoad (16ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (43ms)
+Refreshing native plugins compatible for Editor in 1.09 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4305 unused Assets / (7.4 MB). Loaded Objects now: 5280.
+Memory consumption went from 175.6 MB to 168.2 MB.
+Total: 12.825500 ms (FindLiveObjects: 0.686300 ms CreateObjectMapping: 0.374900 ms MarkObjects: 6.625400 ms  DeleteObjects: 5.136600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
