@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8ed89e8bfd4437340bfae479384bfca0
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5783
+  packageName: 1H_Dodge_To_Left
+  packageVersion: 1.3
+  assetPath: Assets/Standard Assets/Shaders/DifSpecTransp.shader
+  uploadId: 27331
